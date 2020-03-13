@@ -2,7 +2,7 @@
 
 ```{r, echo=FALSE, results='hide', warning=FALSE, message=FALSE}
 library(ggplot2)
-library(scales)
+library(scales) 
 library(Hmisc)
 ```
 
